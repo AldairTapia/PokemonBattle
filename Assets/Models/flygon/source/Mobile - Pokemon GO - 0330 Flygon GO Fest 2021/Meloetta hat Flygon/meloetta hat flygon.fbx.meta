@@ -51,7 +51,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: FlygonDamage
+      name: Damage
       takeName: Armature.001|Armature.001|ba01_land01|Base Layer
       internalID: -1846870256691567587
       firstFrame: 0
