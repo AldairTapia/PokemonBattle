@@ -1433,7 +1433,7 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: RayquazaDeath01
+      name: Die
       takeName: bd_sleep
       internalID: 4601984494437558288
       firstFrame: 0
