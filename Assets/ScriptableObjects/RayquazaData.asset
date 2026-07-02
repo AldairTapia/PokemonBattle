@@ -17,13 +17,20 @@ MonoBehaviour:
   attacks:
   - name: Ascenso Draco
     animationName: RayquazaAttack01
+    attackSoundName: 
     minDamage: 20
     maxDamage: 100
     chargeParticles: {fileID: 2907483209725827307, guid: 965ad6b245b4a584cb7e4b26d49c23ae, type: 3}
     attackParticles: {fileID: 1387007494548194404, guid: 3ec73e6c83cd59e47b238cc360f1d222, type: 3}
   - name: Vasto Impacto
     animationName: RayquazaAttack02
+    attackSoundName: 
     minDamage: 30
     maxDamage: 150
     chargeParticles: {fileID: 2907483209725827307, guid: 965ad6b245b4a584cb7e4b26d49c23ae, type: 3}
     attackParticles: {fileID: 1387007494548194404, guid: 3ec73e6c83cd59e47b238cc360f1d222, type: 3}
+  chargeTime: 2
+  appearParticles: {fileID: 2907483209725827307, guid: 965ad6b245b4a584cb7e4b26d49c23ae, type: 3}
+  appearSoundName: Rayquaza1
+  damageSoundName: Rayquaza2
+  deadSoundNmae: Rayquaza3
