@@ -10,27 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d17c69694c9d0b44f93bec5881d86bab, type: 3}
-  m_Name: CharizardData
+  m_Name: TyranitarData
   m_EditorClassIdentifier: Assembly-CSharp::FighterData
-  maxHealth: 200
-  fighterName: Charizard
+  maxHealth: 300
+  fighterName: Tyranitar
   attacks:
-  - name: FirePunch
-    animationName: CharizardAttack
-    attackSoundName: Charizar4
+  - name: Golpe Fuerte
+    animationName: Attack01
+    attackSoundName: ataque_1B
     minDamage: 50
     maxDamage: 80
-    chargeParticles: {fileID: 148115975216417699, guid: 6022982183f3e14478b3ff4672dbcaa2, type: 3}
+    chargeParticles: {fileID: 2907483209725827307, guid: 965ad6b245b4a584cb7e4b26d49c23ae, type: 3}
     attackParticles: {fileID: 4167542392795801174, guid: ecec28dc6c4595a4d8ff68ac502abe62, type: 3}
-  - name: FireRoar
-    animationName: CharizardAttack02
+  - name: Golpe Potente
+    animationName: Ataque_2B
     attackSoundName: Charizar5
     minDamage: 40
     maxDamage: 120
-    chargeParticles: {fileID: 148115975216417699, guid: 6022982183f3e14478b3ff4672dbcaa2, type: 3}
+    chargeParticles: {fileID: 6057774430863058130, guid: 46ae207be7be9f64ea2518a5fcbbb7f2, type: 3}
     attackParticles: {fileID: 4167542392795801174, guid: ecec28dc6c4595a4d8ff68ac502abe62, type: 3}
   chargeTime: 2
-  appearParticles: {fileID: 4167542392795801174, guid: ecec28dc6c4595a4d8ff68ac502abe62, type: 3}
-  appearSoundName: Charizar1
-  damageSoundName: Charizar2
+  appearParticles: {fileID: 2441203754530709931, guid: d37882629c924f248bf6c10aa7f285b9, type: 3}
+  appearSoundName: ApareceB
+  damageSoundName: "Da\xF1oB"
   deadSoundNmae: Charzar3
